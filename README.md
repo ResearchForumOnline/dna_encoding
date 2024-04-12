@@ -53,9 +53,13 @@ Representation and Encoding: Numbers within the new system can be represented us
 Loss Functions and Metrics: Modifying loss functions and evaluation metrics to align with the specific operations and boundary constraints of the new system is crucial for assessing LLM performance accurately.
 Architectural Adaptations: Depending on the chosen implementation, specific modifications to the LLM architecture, such as incorporating dedicated modules for handling the new numerical representation and operations, might be necessary.
 Potential Benefits and Challenges:
+
 Ref:
+
 https://researchforum.online/research-papers/zero-llm-research-ai-research-paper/
+
 https://researchforum.online/research-papers/
+
 
 
 
